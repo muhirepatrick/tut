@@ -1,0 +1,6 @@
+here is the result of:
+ hello this is fisrt text 
+ file ,hello this is fisrt
+  text file here is the re
+  sult of: hello this is 
+  fisrt text file ,hello this is fisrt text file 
